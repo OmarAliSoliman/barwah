@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <filter id="Ellipse_634" x="6" y="8" width="57" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_175492" data-name="Group 175492" transform="translate(-999 -1738)">
+    <g id="Ellipse_603" data-name="Ellipse 603" transform="translate(999 1738)" fill="#fff" stroke="#c3966c" stroke-width="1">
+      <circle cx="34" cy="34" r="34" stroke="none"/>
+      <circle cx="34" cy="34" r="33.5" fill="none"/>
+    </g>
+    <g id="Group_175463" data-name="Group 175463" transform="translate(981 1060.134)">
+      <g transform="matrix(1, 0, 0, 1, 18, 677.87)" filter="url(#Ellipse_634)">
+        <circle id="Ellipse_634-2" data-name="Ellipse 634" cx="19.5" cy="19.5" r="19.5" transform="translate(15 14)" fill="#eaeaea"/>
+      </g>
+      <path id="Menu" d="M1,17a1,1,0,0,1-1-1v-.429a1,1,0,0,1,1-1H18a1,1,0,0,1,1,1V16a1,1,0,0,1-1,1ZM1,9.715a1,1,0,0,1-1-1V8.285a1,1,0,0,1,1-1H18a1,1,0,0,1,1,1v.428a1,1,0,0,1-1,1ZM1,2.429a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0h9.875a1,1,0,0,1,1,1v.428a1,1,0,0,1-1,1Z" transform="translate(62 719.866) rotate(180)" fill="#eab349"/>
+    </g>
+  </g>
+</svg>
