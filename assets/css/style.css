@@ -361,4 +361,10 @@ img {
   .live-preview .live-img iframe {
     height: 550px;
   }
+}
+.screens img {
+  margin: auto;
+  cursor: zoom-in;
+  max-width: 260px;
+  max-height: auto;
 }/*# sourceMappingURL=style.css.map */
